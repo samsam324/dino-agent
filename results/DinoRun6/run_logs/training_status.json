@@ -1,0 +1,65 @@
+{
+    "Dino": {
+        "checkpoints": [
+            {
+                "steps": 28899983,
+                "file_path": "results\\DinoRun6\\Dino\\Dino-28899983.onnx",
+                "reward": 443.29411764705884,
+                "creation_time": 1723915686.3667462,
+                "auxillary_file_paths": [
+                    "results\\DinoRun6\\Dino\\Dino-28899983.pt"
+                ]
+            },
+            {
+                "steps": 28949940,
+                "file_path": "results\\DinoRun6\\Dino\\Dino-28949940.onnx",
+                "reward": 423.93333333333334,
+                "creation_time": 1723915730.04594,
+                "auxillary_file_paths": [
+                    "results\\DinoRun6\\Dino\\Dino-28949940.pt"
+                ]
+            },
+            {
+                "steps": 28999953,
+                "file_path": "results\\DinoRun6\\Dino\\Dino-28999953.onnx",
+                "reward": 429.5581395348837,
+                "creation_time": 1723915773.5576425,
+                "auxillary_file_paths": [
+                    "results\\DinoRun6\\Dino\\Dino-28999953.pt"
+                ]
+            },
+            {
+                "steps": 29049945,
+                "file_path": "results\\DinoRun6\\Dino\\Dino-29049945.onnx",
+                "reward": 432.8,
+                "creation_time": 1723915865.793369,
+                "auxillary_file_paths": [
+                    "results\\DinoRun6\\Dino\\Dino-29049945.pt"
+                ]
+            },
+            {
+                "steps": 29073729,
+                "file_path": "results\\DinoRun6\\Dino\\Dino-29073729.onnx",
+                "reward": 433.7857142857143,
+                "creation_time": 1723915887.0716195,
+                "auxillary_file_paths": [
+                    "results\\DinoRun6\\Dino\\Dino-29073729.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 29073729,
+            "file_path": "results\\DinoRun6\\Dino.onnx",
+            "reward": 433.7857142857143,
+            "creation_time": 1723915887.0716195,
+            "auxillary_file_paths": [
+                "results\\DinoRun6\\Dino\\Dino-29073729.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

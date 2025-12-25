@@ -1,0 +1,65 @@
+{
+    "Dino": {
+        "checkpoints": [
+            {
+                "steps": 39199973,
+                "file_path": "results\\DinoRun2\\Dino\\Dino-39199973.onnx",
+                "reward": 38.666666666666664,
+                "creation_time": 1723827825.0323577,
+                "auxillary_file_paths": [
+                    "results\\DinoRun2\\Dino\\Dino-39199973.pt"
+                ]
+            },
+            {
+                "steps": 39249939,
+                "file_path": "results\\DinoRun2\\Dino\\Dino-39249939.onnx",
+                "reward": 17.5,
+                "creation_time": 1723827873.480204,
+                "auxillary_file_paths": [
+                    "results\\DinoRun2\\Dino\\Dino-39249939.pt"
+                ]
+            },
+            {
+                "steps": 39299956,
+                "file_path": "results\\DinoRun2\\Dino\\Dino-39299956.onnx",
+                "reward": 11.0,
+                "creation_time": 1723827922.257449,
+                "auxillary_file_paths": [
+                    "results\\DinoRun2\\Dino\\Dino-39299956.pt"
+                ]
+            },
+            {
+                "steps": 39349968,
+                "file_path": "results\\DinoRun2\\Dino\\Dino-39349968.onnx",
+                "reward": 39.5,
+                "creation_time": 1723827970.765662,
+                "auxillary_file_paths": [
+                    "results\\DinoRun2\\Dino\\Dino-39349968.pt"
+                ]
+            },
+            {
+                "steps": 39370304,
+                "file_path": "results\\DinoRun2\\Dino\\Dino-39370304.onnx",
+                "reward": 38.666666666666664,
+                "creation_time": 1723827990.7348206,
+                "auxillary_file_paths": [
+                    "results\\DinoRun2\\Dino\\Dino-39370304.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 39370304,
+            "file_path": "results\\DinoRun2\\Dino.onnx",
+            "reward": 38.666666666666664,
+            "creation_time": 1723827990.7348206,
+            "auxillary_file_paths": [
+                "results\\DinoRun2\\Dino\\Dino-39370304.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}
